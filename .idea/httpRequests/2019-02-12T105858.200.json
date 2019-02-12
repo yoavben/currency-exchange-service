@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "from": "USD",
+  "to": "NIS",
+  "conversionMultiple": 3.65,
+  "port": 8000
+}
