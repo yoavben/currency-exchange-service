@@ -2,6 +2,26 @@ GET http://localhost:8000/currency-exchange/USD/to/NIS
 Accept: */*
 Cache-Control: no-cache
 
+###
+
+GET http://localhost:8000/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T065727.200.json
+
+###
+
+GET http://localhost:8000/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
 <> 2019-02-12T105858.200.json
 
 ###
